@@ -1,0 +1,25 @@
+{
+  "name": "guiahotel",
+  "version": "1.0.0",
+  "description": "\"Nuestro proyecto guia de hotel\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pmorelius/guia_hotel_sem2.git"
+  },
+  "author": "Pmorelius",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "open-iconic": "^1.1.1",
+    "popper.js": "^1.16.1"
+  }
+}
