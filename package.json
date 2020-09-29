@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Pmorelius/guia_hotel_sem3.git"
-  },
+  
   "author": "Pmorelius",
   "license": "ISC",
   "homepage": "",
